@@ -11,7 +11,7 @@ In order to generate a password with this webpage you would just need to click o
 
 I have included a screenshot of the webpage for this repository. 
 
-![alt text](assets/images/password-generator.html.png.png)
+![alt text](assets/images/password-generator.html.png)
 
 ## Credits
 
