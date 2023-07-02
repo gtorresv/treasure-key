@@ -19,6 +19,7 @@ function generatePassword() {
   var characterLength = prompt("How many characters would you like to use?");
   if (characterLength < 8 || characterLength > 124) {
     alert("Please start all over and choose a password length that is between 8-124 characters.");
+    // add character length to characters array
   }
   var confirmUppercase = (window.confirm("Do you want uppercase letters?"));
   if (confirmUppercase === true) {
